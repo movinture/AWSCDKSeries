@@ -13,3 +13,4 @@ This repository supports a multi-part blog series on creating infrastrcutre usin
 ### Day 01 - S3 Buckets
 
 To get started you will create a CDK project, and then as a simple starting bucket we will just a create a S3 bucket.
+See the folder `day01-s31 for the CDK project source code and a walkthrough in the [README](./day01-s3/README.md)
